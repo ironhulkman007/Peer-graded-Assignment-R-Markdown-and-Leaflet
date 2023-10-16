@@ -1,6 +1,6 @@
 ---
 title: 'Peer-graded Assignment: R Markdown and Leaflet'
-author: "Kim Rosmus"
+author: "Aaditya KSK"
 date: "February 11, 2018"
 output: html_document
 ---
